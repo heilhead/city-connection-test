@@ -1,0 +1,11 @@
+Auckland LosAngeles
+LosAngeles SanFrancisco
+SanFrancisco NewYork
+NewYork LosAngeles
+London Paris
+Paris Moscow
+NewYork Washington
+
+Washington Auckland
+London SanFrancisco
+LosAngeles Moscow
